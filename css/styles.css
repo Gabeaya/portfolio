@@ -1,18 +1,18 @@
 .sidebarR{
-  width: 45%;
-  float: right;
+  width: 70%;
+  float:right;
 }
 .sidebar{
-  width: 45%;
+  width: 25%;
   float: left;
 }
 .my-class {
-  text-align: center;
+  text-align:center;
   border: 2px solid rgb(0, 0, 0);
   padding: 10px;
   background-color: rgb(144, 205, 216);
   display: block;
-  margin: auto;
+  margin: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
   width: 50%;
@@ -22,7 +22,7 @@
   border: 2px solid rgb(0, 0, 0);
   width: 50%;
   height: auto;
-  margin: auto;
+  margin: 30px;
   width: 50%;
   height: auto;
   display: block;
