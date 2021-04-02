@@ -6,3 +6,25 @@
   width: 45%;
   float: left;
 }
+.my-class {
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(144, 205, 216);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.left-image {
+  border: 2px solid rgb(0, 0, 0);
+  width: 50%;
+  height: auto;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+  box-sizing: border-box;
+}
