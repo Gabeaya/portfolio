@@ -1,21 +1,22 @@
+
 .sidebarR{
   width: 70%;
   float:right;
 }
 .sidebar{
-  width: 25%;
+  width: 29%;
   float: left;
 }
 .my-class {
   text-align:center;
-  border: 2px solid rgb(0, 0, 0);
+  border: 5px solid rgb(0, 0, 0);
   padding: 10px;
   background-color: rgb(144, 205, 216);
   display: block;
   margin: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 50%;
+  width: 80%;
   box-sizing: border-box;
 }
 .left-image {
@@ -23,8 +24,11 @@
   width: 50%;
   height: auto;
   margin: 30px;
-  width: 50%;
+  width: 80%;
   height: auto;
   display: block;
   box-sizing: border-box;
+}
+body {
+  background-color: rgb(209, 209, 209);
 }
