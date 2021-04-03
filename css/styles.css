@@ -31,6 +31,18 @@
   width: 80%;
   box-sizing: border-box;
 }
+.my-class3 {
+  text-align:center;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(144, 205, 216);
+  display: block;
+  margin: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 96%;
+  box-sizing: border-box;
+}
 .left-image {
   border: 2px solid rgb(0, 0, 0);
   width: 50%;
