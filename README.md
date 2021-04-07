@@ -12,6 +12,8 @@ _This is a browser application that provides the user with information about the
 * _Clone the repository to your desktop._
 * _Navigate to the top level of the directory._
 * _Open index.html in your browser._
+## Github Pages Link
+_https://gabeaya.github.io/portfolio/_
 ## Known Bugs
 * _none_
 ## License
