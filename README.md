@@ -9,6 +9,8 @@
 ## Description
 _This is a browser application that provides the user with information about the contributer. It provides the user with hyperlinks to examples of the projects the contributer had worked on thus far._
 ## Setup/Installation Requirements
+* _Copy and paste the link: https://github.com/Gabeaya/portfolio.git into your browser._
+* _Click the green button indicating 'Code'_
 * _Clone the repository to your desktop._
 * _Navigate to the top level of the directory._
 * _Open index.html in your browser._
